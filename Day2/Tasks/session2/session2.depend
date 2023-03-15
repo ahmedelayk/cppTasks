@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678214619 source:i:\oop-sherihan\day2\tasks\session2\main.cpp
+	<iostream>
+	<Windows.h>
+

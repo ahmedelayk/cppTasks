@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678384662 source:i:\oop-sherihan\day4\task\session_4_string_task\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+

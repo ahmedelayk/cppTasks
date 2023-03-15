@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678362959 source:i:\oop-sherihan\day4\task\session_4\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+
+1678382450 source:i:\oop-sherihan\day4\task\session_4_structure_task\main.cpp
+	<iostream>
+	<windows.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678795228 source:i:\oop-sherihan\day5\task_5\employeetask\main.cpp
+	<iostream>
+	<Windows.h>
+
